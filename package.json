@@ -1,0 +1,14 @@
+{
+  "name": "command_parser",
+  "version": "0.1.0",
+  "description": "An experimental native command parser for NestCord",
+  "main": "lib/index.js",
+  "author": "Rph <rphsoftware@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.4.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
